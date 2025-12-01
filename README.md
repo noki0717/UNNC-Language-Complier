@@ -582,10 +582,6 @@ self.builtins['my_function'] = my_function_impl
 
 MIT License
 
-## 作者
-
-UNNC Language Compiler Team
-
 ## 更新日志
 
 ### v1.0.0 (2025-12-01)
